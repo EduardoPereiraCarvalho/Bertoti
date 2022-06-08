@@ -1,8 +1,8 @@
 Eduardo Pereira Carvalho
 
-1 - Perceptível
+1 -  Perceptível
 
-1.1 Alternativas de texto 
+1.1   Alternativas de texto 
   Forneça alternativas de texto para qualquer conteúdo não textual para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.
   
   Site da CAIXA
@@ -10,15 +10,21 @@ Eduardo Pereira Carvalho
   
  <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Caixa.png"/>
   
-1.2 Mídia Baseada em Texto
+  
+ 
+ 
+1.2   Mídia Baseada em Texto
   Forneça alternativas para mídia baseada em tempo.
   
   Spotify
   Essa platamorma de música possui a opção de ativar a legenda do música.
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Spotify.png"/>
-  
-1.3 Adaptável
+   
+   
+   
+   
+1.3   Adaptável
   Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
   BooyahTv
@@ -26,7 +32,10 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Booyah.png"/>
   
-1.4 Distinguível
+  
+  
+  
+1.4   Distinguível
   Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro plano do plano de fundo.
   
   Twitch
@@ -34,9 +43,13 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Twitch.png"/>
   
-2 - Operável
+  
+  
+  
+  
+2 -   Operável
 
-2.1 Teclado Acessível
+2.1  Teclado Acessível
   Disponibilize todas as funcionalidades a partir de um teclado.
   
   Excel
@@ -44,7 +57,10 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Excel.png"/>
   
-2.2 Tempo Suficiente
+  
+  
+  
+2.2   Tempo Suficiente
   Forneça aos usuários tempo suficiente para ler e usar o conteúdo.
   
   Netflix
@@ -52,7 +68,7 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Netflix.jpg"/>
   
-2.3 Convulsões e reações fisícas
+2.3   Convulsões e reações fisícas
   Não crie conteúdo de uma forma conhecida por causar convulsões ou reações físicas.
   
   Youtube
@@ -60,7 +76,10 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Youtube.png"/>
   
-2.4 Navegável
+  
+  
+  
+2.4   Navegável
   Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles estão.
   
   Netflix
@@ -68,7 +87,10 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Netflix(1).jpg"/>
   
-2.5 Modalidades de entrada
+  
+  
+  
+2.5  Modalidades de entrada
   Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além do teclado.
   
   Globoplay
@@ -76,9 +98,12 @@ Eduardo Pereira Carvalho
   
   <img src = "https://github.com/EduardoPereiraCarvalho/Bertoti/blob/main/IHC/Imagens%20IHC/Site%20Globoplay.png"/>
   
-3 - Compreensível
+  
+  
+  
+3 -   Compreensível
 
-3.1 Legível
+3.1   Legível
   Torne o conteúdo do texto legível e compreensível.
 
   Portal Rap Mais
